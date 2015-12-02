@@ -1,0 +1,17 @@
+{
+  "name": "face-palm",
+  "version": "1.0.0",
+  "description": "Display your face in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.12.7"
+  },
+  "author": "Prosper Otemuyiwa <prosperotemuyiwa@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "console-png": "^1.0.0"
+  }
+}
