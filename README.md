@@ -18,7 +18,7 @@ A small library that displays your face/image in the terminal
     Output should be the image in your terminal like so:
 
 
-
+   [![Prosper](https://github.com/unicodeveloper/face-palm/raw/master/prosper-console-image.png)](https://github.com/unicodeveloper/face-palm)
 
 
 
