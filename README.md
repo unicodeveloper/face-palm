@@ -15,6 +15,8 @@ A small library that displays your face/image in the terminal
 
     display('prosper.png');
 
+    `prosper.png` should be an image residing in your project directory
+
     Output should be the image in your terminal like so:
 
 
