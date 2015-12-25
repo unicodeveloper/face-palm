@@ -1,6 +1,7 @@
 Face-palm
 =========
 
+[![NPM version](https://img.shields.io/npm/v/face-palm.svg?style=flat)](https://www.npmjs.com/package/face-palm)
 ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 A small library that displays your face/image in the terminal
